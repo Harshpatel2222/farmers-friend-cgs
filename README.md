@@ -9,7 +9,7 @@ This is Team project.
      ```• $ git clone https://github.com/UditKapadia/farmers-friend-cgs.git```
 
 - Insatall Virtual Environment and Run it before giving further command. 
-     - [How to Install and Run Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+     ```[How to Install and Run Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)```
 
 -  Install Django using teminal window.
 
